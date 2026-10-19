@@ -1,3 +1,4 @@
+![](/banner.png)
 ### About me
 - 🌎 I'm from Buenos Aires, Argentina.
 - 🎓 I'm studying Programming at UTN (75% completed).
